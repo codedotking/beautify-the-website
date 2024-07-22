@@ -2,7 +2,7 @@
 // @name         Linux.do 美化
 // @namespace    http://tampermonkey.net/
 // @version      2024-07-22
-// @description  Linux.do 美化
+// @description  美化 Linux.do 
 // @author       huala
 // @match        https://linux.do/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=linux.do
