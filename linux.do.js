@@ -2,10 +2,10 @@
 // @name         Linux.do 美化
 // @namespace    http://tampermonkey.net/
 // @version      2024-07-22
-// @description  try to take over the world!
+// @description  Linux.do 美化
 // @author       huala
 // @match        https://linux.do/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=juejin.cn
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=linux.do
 // @grant        GM_addStyle
 // ==/UserScript==
 

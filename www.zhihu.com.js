@@ -2,10 +2,10 @@
 // @name         知乎 美化
 // @namespace    http://tampermonkey.net/
 // @version      2024-07-22
-// @description  try to take over the world!
+// @description  美化知乎
 // @author       huala
 // @match        https://www.zhihu.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=juejin.cn
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=zhihu.com
 // @grant        GM_addStyle
 // ==/UserScript==
 
