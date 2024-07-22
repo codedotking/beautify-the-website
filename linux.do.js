@@ -7,7 +7,6 @@
 // @match        https://linux.do/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=juejin.cn
 // @grant        GM_addStyle
-// @require      file://C:\Users\he.wenyao\Desktop\index.js
 // ==/UserScript==
 
 (function () {
