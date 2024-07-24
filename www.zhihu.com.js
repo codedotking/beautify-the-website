@@ -12,31 +12,11 @@
 // ==/UserScript==
 
 (function () {
-    "use strict";
+  "use strict";
 
-    GM_addStyle(`
+  GM_addStyle(`
 #root > div > main > div > div.Topstory-container > div.css-1qyytj7,
-#root
-  > div
-  > div:nth-child(2)
-  > header
-  > div.AppHeader-inner.css-11p8nt5
-  > ul
-  > li:nth-child(2),
-#root
-  > div
-  > div:nth-child(2)
-  > header
-  > div.AppHeader-inner.css-11p8nt5
-  > ul
-  > li:nth-child(3),
-#root
-  > div
-  > div:nth-child(2)
-  > header
-  > div.AppHeader-inner.css-11p8nt5
-  > ul
-  > li:nth-child(4),
+#root > div > div:nth-child(2) > header > div.AppHeader-inner.css-11p8nt5 > ul,
 #root
   > div
   > main
@@ -84,9 +64,5 @@
 #root > div > main > div > div > div.Question-main > div.Question-mainColumn {
   width: 85% !important;
 }
-
-
-
-
-    `);
+  `);
 })();
